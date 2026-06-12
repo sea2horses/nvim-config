@@ -3,3 +3,4 @@
 -- Add any additional options here
 
 vim.opt.clipboard = "unnamedplus" -- Sync with system clipboard
+vim.g.autoformat = false
